@@ -1,5 +1,3 @@
-**EdgarAmaro9257/EdgarAmaro9257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 # 👋 Hi, I'm Edgar Amaro Cantoral!
 
 I'm a recent graduate in Computer Engineering from the Faculty of Engineering at UNAM. Currently, I'm pursuing my degree through a diploma course in iOS mobile development. My passion lies in technology, with a particular interest in data analysis and Data Science. Here, you'll find repositories showcasing the projects I've worked on using various technological tools. Welcome to my profile!
