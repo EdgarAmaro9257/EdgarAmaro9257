@@ -22,8 +22,8 @@ A collection of data analysis projects using Python and popular libraries like p
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Edgar Amaro Cantoral](your-linkedin-profile)
-- Email: [edgar.cantoral@yahoo.com](mailto:your-email@example.com)
+- LinkedIn: [Edgar Amaro Cantoral](https://www.linkedin.com/in/edgar-amaro-cantoral-286086229/)
+- Email: [edgar.cantoral@yahoo.com](mailto:edgar.cantoral@yahoo.com)
 
 Thank you for visiting my profile! I'm always open to discussing technology, potential collaborations, or simply connecting with like-minded individuals. Let's connect! 🚀
 
