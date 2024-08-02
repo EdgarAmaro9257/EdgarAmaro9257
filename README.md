@@ -15,7 +15,7 @@ I'm a recent graduate in Computer Engineering from the Faculty of Engineering at
 ## 🔍 Featured Projects
 
 ### Swift Projects
-An iOS app built with Swift and SwiftUI that allows users to create and customize their own pizzas. [Check it out]([link-to-your-repo](https://github.com/EdgarAmaro9257/EjerciciosDiplomadoIOS)).
+An iOS app built with Swift and SwiftUI that allows users to create and customize their own pizzas. [Check it out (https://github.com/EdgarAmaro9257/EjerciciosDiplomadoIOS).
 
 ### Data Analysis with Python
 A collection of data analysis projects using Python and popular libraries like pandas and scikit-learn. [View the projects](link-to-your-repo).
