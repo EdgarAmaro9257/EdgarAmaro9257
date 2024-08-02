@@ -1,4 +1,11 @@
-## Hi there 👋
+## My name is Edgar Amaro Cantoral, a recent graduate in Computer Engineering from the Faculty of Engineering at UNAM. I am currently in the process of obtaining my degree through a diploma course in iOS mobile development. I am passionate about technology, especially data analysis and Data Science. Here, you will find repositories of projects I have worked on using various technological tools. Welcome to my profile. 👋
+
+                                     👾 👾  Technological tools I like and have knowledge of 👾 👾
+
+                                     [![My Skills](https://skillicons.dev/icons?i=py,swift,java,c,cpp,html,css,js,gcp,github,linux,sklearn)](https://skillicons.dev)
+
+
+
 
 <!--
 **EdgarAmaro9257/EdgarAmaro9257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
