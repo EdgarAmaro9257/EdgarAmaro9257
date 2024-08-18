@@ -16,7 +16,8 @@ I'm a recent graduate in Computer Engineering from the Faculty of Engineering at
 Many iOS apps built with Swift and SwiftUI during my Course about IOS Mobile Development. [Check it out](https://github.com/EdgarAmaro9257/EjerciciosDiplomadoIOS)
 
 ### Data Analysis with Python
-A collection of data analysis projects using Python and popular libraries like pandas and scikit-learn. For example this project about Credit Card Transactions [View the projects (In process)].
+A collection of data analysis projects using Python and popular libraries like pandas and scikit-learn. For example this project about Credit Card Transactions. 
+[Check it out](https://github.com/EdgarAmaro9257/Credit-Card-Transactions)
 
 ## 📫 Get in Touch
 
