@@ -4,7 +4,7 @@ I'm a recent graduate in Computer Engineering from the Faculty of Engineering at
 
 ## 🛠️ Technologies & Tools I Use 🛠️
 
-[![My Skills](https://skillicons.dev/icons?i=py,swift,java,c,cpp,html,css,js,gcp,github,linux,sklearn)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,swift,c,cpp,html,css,js,gcp,github,linux,sklearn)](https://skillicons.dev)
 
 ## 🛠️ Technologies I'm Learning 🛠️
 
